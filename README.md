@@ -1,5 +1,7 @@
 # week4
 
+The /alive api I created is under routes folder.
+
 Below is the screenshot of get request end-point '/get-device':
 ![image](https://github.com/msitu22/week4/assets/112602900/c24a17e6-512f-49fb-91f8-01c768cd0272)
 
